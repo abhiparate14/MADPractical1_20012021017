@@ -5,4 +5,5 @@ fun main()
     val z = 300.95f
 
     println("x=$x\ny=$y\nz=$z")
+
 }

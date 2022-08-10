@@ -7,3 +7,5 @@ practical-1 question-3
 ![Screenshot (12)](https://user-images.githubusercontent.com/74175413/183702392-d5249b6a-0ea9-40e5-9abe-6b4268289696.png)
 practical-1 question-4
 ![Screenshot (9)](https://user-images.githubusercontent.com/74175413/183854150-77d2c125-d286-4cae-836c-2af3ee7ef5bd.png)
+practical-1 question-5
+![Screenshot (10)](https://user-images.githubusercontent.com/74175413/183856046-4bbb5da3-a7b4-4067-b0aa-0d674232dcd0.png)

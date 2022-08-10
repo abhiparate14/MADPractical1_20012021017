@@ -5,3 +5,5 @@ practical-1 question-2
 ![Screenshot (11)](https://user-images.githubusercontent.com/74175413/183701927-6a47651d-a6fb-4d50-abe9-97d133e7a69f.png)
 practical-1 question-3
 ![Screenshot (12)](https://user-images.githubusercontent.com/74175413/183702392-d5249b6a-0ea9-40e5-9abe-6b4268289696.png)
+practical-1 question-4
+![Screenshot (9)](https://user-images.githubusercontent.com/74175413/183854150-77d2c125-d286-4cae-836c-2af3ee7ef5bd.png)

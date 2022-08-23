@@ -31,3 +31,6 @@ practical-1 question-10
 ![Screenshot (16)](https://user-images.githubusercontent.com/74175413/186186557-91b2a72f-9cb7-4e0b-bc4c-295c3b263ff4.png)
 
 practical-1 question-11
+![Screenshot (17)](https://user-images.githubusercontent.com/74175413/186187543-bc514263-0447-4da0-aadf-0dc9415aaa4a.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/74175413/186187693-0c5928a6-9bb4-47e7-ba74-b0b1fa302134.png)
+

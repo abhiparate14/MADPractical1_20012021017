@@ -24,3 +24,10 @@ practical-1 question-7
 practical-1 question-8
 ![Screenshot (13)](https://user-images.githubusercontent.com/74175413/186183586-4e900b42-fd9a-4e83-81f5-cf27fcdd900e.png)
 
+practical-1 question-9
+![Screenshot (15)](https://user-images.githubusercontent.com/74175413/186184931-eadf4ad7-7248-409f-a546-8007ad15d759.png)
+
+practical-1 question-10
+
+
+practical-1 question-11

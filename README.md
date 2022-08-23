@@ -28,6 +28,6 @@ practical-1 question-9
 ![Screenshot (15)](https://user-images.githubusercontent.com/74175413/186184931-eadf4ad7-7248-409f-a546-8007ad15d759.png)
 
 practical-1 question-10
-
+![Screenshot (16)](https://user-images.githubusercontent.com/74175413/186186557-91b2a72f-9cb7-4e0b-bc4c-295c3b263ff4.png)
 
 practical-1 question-11
